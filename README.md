@@ -26,3 +26,4 @@ Ordered list
 
 this is a link:
  ![Fender Telecaster](images/tele.jpg)
+ ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
