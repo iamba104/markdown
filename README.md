@@ -22,3 +22,7 @@ Unordered list
 Ordered list
 1. first
 2. second
+
+
+this is a link:
+ ![Fender Telecaster](images/tele.jpg)
