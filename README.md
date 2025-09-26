@@ -9,3 +9,16 @@
 _This text is also italic_
 
 This is just regular.
+**THIS IS BOLDDDDED TEXT**
+
+***o my gawd this is bolded ITALIC text***
+
+Unordered list
+- item 1
+- item 2
+  - item 2a
+  - tyem 2b
+
+Ordered list
+1. first
+2. second
